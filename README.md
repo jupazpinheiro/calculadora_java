@@ -6,7 +6,7 @@ Calculadora desenvolvida em interface Swing em Java com propriedades básicas: s
 Foram adicionados as funcionalidades de limpar, voltar e on/of dos botões.
 
 ## Layout 
-![Mobile 1](https://github.com/jupazpinheiro/calculadora_java/img/Capturar.PNG)
+![App](https://github.com/jupazpinheiro/calculadora_java/blob/main/img/Capturar.PNG)
 
 # Tecnologias utilizadas
 - Java
